@@ -4,4 +4,4 @@
 
   Downsides: 
   * Definitions for protocols and extensions should be declared in file scope 
-    and can't be declared inside "namespaces".
+
